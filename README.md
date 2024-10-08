@@ -1,1 +1,1 @@
-NOTE: Edit the config.properties file in src/test/resources with yor credentials and project ID
+NOTE: I use one of my Jira projects for the task. Use my credentials.
